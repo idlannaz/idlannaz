@@ -1,13 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Idlan</h1>
+<h3 align="center">A passionate Full stack Developer from Malaysia</h3>
 
 I'm an energetic and curious Multimedia Computing fresh graduate 🎓, passionate about creating innovative software solutions 💡. With a Bachelor's degree in Multimedia Computing, specializing in Multimedia, Website Development, and Game Development 🎮, I have almost a year of intensive experience as a Frontend Developer and Graphic Designer 🎨.
 
 Currently, I'm honing my skills further by pursuing a Full Stack Developer Program under Yayasan Pahang 📚, which I'll complete by the end of October 📅. My expertise includes HTML, CSS, JavaScript, Vue.js, Laravel, MongoDB, Bootstrap, and PHP 💻. I thrive in dynamic environments, embracing teamwork, creativity, and adaptability 🌟.
 
 I'm excited to contribute to projects that align with organizational goals and foster growth, delivering user-friendly and cutting-edge digital experiences 🚀.
-
-<h1 align="center">Hi 👋, I'm Idlan</h1>
-<h3 align="center">A passionate Full stack Developer from Malaysia</h3>
 
 - 📫 How to reach me **idlanmohd01@gmail.com**
 
