@@ -17,7 +17,7 @@ I'm excited to contribute to projects that align with organizational goals and f
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.blender.org/" target="_blank" rel="noopener">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
