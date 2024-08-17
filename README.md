@@ -3,8 +3,7 @@
 
 I'm an energetic and curious Multimedia Computing fresh graduate 🎓, passionate about creating innovative software solutions 💡. With a Bachelor's degree in Multimedia Computing, specializing in Multimedia, Website Development, and Game Development 🎮, I have almost a year of intensive experiences as a Frontend Developer and Graphic Designer 🎨.
 
-Currently, I'm honing my skills further by pursuing a Full Stack Developer Program under Yayasan Pahang 📚, which I'll complete by the end of October 📅. My expertise includes HTML, CSS, JavaScript, React.js, Express.js, MongoDB, Bootstrap, and Node.js. I thrive in dynamic environments, embracing teamwork, creativity, and adaptability 🌟.
-
+🌟 I am proficient in typescript (HTML, CSS, JavaScript) and a strong command of the MERN stack(MongoDB,ExpressJS,ReactJS and NodeJS). I thrive in dynamic environments, where teamwork, creativity, and adaptability are key to driving success. 🌟
 I'm excited to contribute to projects that align with organizational goals and foster growth, delivering user-friendly and cutting-edge digital experiences 🚀.
 
 - 📫 How to reach me **idlanmohd01@gmail.com**
