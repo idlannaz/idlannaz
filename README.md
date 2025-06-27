@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Idlan</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-I’m a passionate Web Developer 💻 with hands-on experience in both game development 🎮 and full-stack web development. I specialize in using Construct 3 for game creation, and I’m proficient in core web technologies like JavaScript, HTML, CSS, and the MERN stack (MongoDB, Express.js, React.js, Node.js) ⚙️. I enjoy solving problems through code 🧠 and have a solid understanding of UI/UX principles to create user-friendly and engaging interfaces 🎨. I’m always eager to learn new technologies 📚 and improve my skills. 
+<h2 align= "center">I’m a passionate Web Developer 💻 with hands-on experience in both game development 🎮 and full-stack web development. I specialize in using Construct 3 for game creation, and I’m proficient in core web technologies like JavaScript, HTML, CSS, and the MERN stack (MongoDB, Express.js, React.js, Node.js) ⚙️. I enjoy solving problems through code 🧠 and have a solid understanding of UI/UX principles to create user-friendly and engaging interfaces 🎨. I’m always eager to learn new technologies 📚 and improve my skills. </h2>
 
-Currently, I’m looking for opportunities in team-oriented environment 🤝 where I can grow, contribute, and build meaningful digital experiences. Give me chance and time I will deliver!!
+<h2 align= "center">Currently, I’m looking for opportunities in team-oriented environment 🤝 where I can grow, contribute, and build meaningful digital experiences. Give me chance and time I will deliver!!. </h2>
 
 
 
