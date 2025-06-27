@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Idlan</h1>
-<h3 align="center">A passionate Full stack Developer from Malaysia</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
-I'm an energetic and curious Multimedia Computing fresh graduate 🎓, passionate about creating innovative software solutions 💡. With a Bachelor's degree in Multimedia Computing, specializing in Multimedia, Website Development, and Game Development 🎮, I have almost a year of intensive experiences as a Frontend Developer and Graphic Designer 🎨.
+I’m a passionate Web Developer 💻 with hands-on experience in both game development 🎮 and full-stack web development. I specialize in using Construct 3 for game creation, and I’m proficient in core web technologies like JavaScript, HTML, CSS, and the MERN stack (MongoDB, Express.js, React.js, Node.js) ⚙️. I enjoy solving problems through code 🧠 and have a solid understanding of UI/UX principles to create user-friendly and engaging interfaces 🎨. I’m always eager to learn new technologies 📚 and improve my skills. 
 
-🌟 I am proficient in typescript (HTML, CSS, JavaScript) and a strong command of the MERN stack(MongoDB,ExpressJS,ReactJS and NodeJS). I thrive in dynamic environments, where teamwork, creativity, and adaptability are key to driving success. 🌟
-I'm excited to contribute to projects that align with organizational goals and foster growth, delivering user-friendly and cutting-edge digital experiences 🚀.
+Currently, I’m looking for opportunities in team-oriented environment 🤝 where I can grow, contribute, and build meaningful digital experiences. Give me chance and time I will deliver!!
+
+
 
 - 📫 How to reach me **idlanmohd01@gmail.com**
 
